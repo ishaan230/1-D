@@ -143,3 +143,6 @@ nav ul.right { float:right; }
   background-size: cover;
   background-color: #222;
 }
+.music-player {
+	height: 100%;
+}
