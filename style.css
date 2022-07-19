@@ -143,6 +143,7 @@ nav ul.right { float:right; }
   background-size: cover;
   background-color: #222;
 }
-.music-player {
-	height: 100%;
+.social-handles {
+	text-align: center;
+	font-size: 20px;
 }
