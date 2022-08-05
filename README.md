@@ -4,4 +4,4 @@
 
 A One Direction practice website deployed on Netlify.
 
-URL : [https://1d.netlify.app/signup.html)
+URL : [https://1d.netlify.app)
