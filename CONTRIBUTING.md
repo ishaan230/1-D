@@ -3,7 +3,7 @@ All contributions are welcomed and encouraged!
 ## Steps to Contribute in repository :
 ### Fork this repo (button on top)
 #### Clone on your local machine <br>
-`git clone https://github.com/username/project-name
+`git clone https://github.com/username/project-name`
 
 ### Navigate to project directory.
 `cd project-directory`
